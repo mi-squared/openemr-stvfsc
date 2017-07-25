@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="en-US" class=" ">
+<head>
+
+<meta charset="UTF-8" />
+
+<title>SleepPro Easifit® | No Snore Zone</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="http://www.nosnorezone.com/wp-content/themes/mystile/style.css" media="screen" />
+<link rel="pingback" href="http://www.nosnorezone.com/xmlrpc.php" />
+        <script type="text/javascript">
+            var woocs_drop_down_view = "ddslick";
+            var woocs_current_currency = {"name":"USD","rate":1,"symbol":"&#36;","position":"left_space","is_etalon":1,"hide_cents":0,"description":"US Dollar","flag":"http:\/\/www.nosnorezone.com\/wp-content\/uploads\/2015\/11\/flag-us.png"};
+            var woocs_default_currency = {"name":"USD","rate":1,"symbol":"&#36;","position":"left_space","is_etalon":1,"hide_cents":0,"description":"US Dollar","flag":"http:\/\/www.nosnorezone.com\/wp-content\/uploads\/2015\/11\/flag-us.png"};
+            var woocs_array_of_get = '{}';
+        
+            woocs_array_no_cents = '["JPY","TWD"]';
+
+            var woocs_ajaxurl = "http://www.nosnorezone.com/wp-admin/admin-ajax.php";
+            var woocs_lang_loading = "loading";
+        </script>
+        <link rel="alternate" type="application/rss+xml" title="No Snore Zone &raquo; Feed" href="http://www.nosnorezone.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="No Snore Zone &raquo; Comments Feed" href="http://www.nosnorezone.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.nosnorezone.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.10"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ppm-accordion-plugin-style-css'  href='http://www.nosnorezone.com/wp-content/plugins/ppm-accordion-master/css/style.css?ver=4.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='http://www.nosnorezone.com/wp-content/themes/mystile/css/layout.css?ver=4.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='tm_clicktotweet-css'  href='http://www.nosnorezone.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=4.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.nosnorezone.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://www.nosnorezone.com/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wonderplugin-slider-css-css'  href='http://www.nosnorezone.com/wp-content/plugins/wonderplugin-slider/engine/wonderpluginsliderengine.css?ver=4.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css'  href='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=4.3.10' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-currency-switcher-css'  href='http://www.nosnorezone.com/wp-content/plugins/woocommerce-currency-switcher/css/front.css?ver=4.3.10' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/jquery-updater/js/jquery-2.1.4.min.js?ver=2.1.4'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/ppm-accordion-master/js/ppm-accordion-main.js?ver=4.3.10'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/woocommerce-currency-switcher/js/price-slider.js?ver=4.3.10'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/jquery-updater/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/wonderplugin-slider/engine/wonderpluginsliderskins.js?ver=2.9'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/wonderplugin-slider/engine/wonderpluginslider.js?ver=2.9'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/themes/mystile/includes/js/third-party.js?ver=4.3.10'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/themes/mystile/includes/js/general.js?ver=4.3.10'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/woocommerce-currency-switcher/js/jquery.ddslick.min.js?ver=4.3.10'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/woocommerce-currency-switcher/js/front.js?ver=4.3.10'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.nosnorezone.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.nosnorezone.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='SleepPro Easifit® Pkg/2' href='http://www.nosnorezone.com/product/sleeppro-1-pkg2/' />
+<link rel='next' title='SleepPro Custom AM®' href='http://www.nosnorezone.com/product/sleeppro-custom-am/' />
+<meta name="generator" content="WordPress 4.3.10" />
+<meta name="generator" content="WooCommerce 2.4.4" />
+<link rel='canonical' href='http://www.nosnorezone.com/product/sleeppro-1/' />
+<link rel='shortlink' href='http://www.nosnorezone.com/?p=1261' />
+<link rel="stylesheet" type="text/css" href="http://www.nosnorezone.com/wp-content/plugins/collision-testimonials/i/css/styles.css" media="all" /><link rel="alternate" type="application/rss+xml"  title="New products" href="http://www.nosnorezone.com/shop-all-products/feed/" />
+<!-- Theme version -->
+<meta name="generator" content="Mystile 1.3.0" />
+<meta name="generator" content="WooFramework 5.5.5" />
+
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+<script src="http://www.nosnorezone.com/wp-content/themes/mystile/includes/js/respond-IE.js"></script>
+<![endif]-->
+<!--[if lte IE 8]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!-- Woo Custom Typography -->
+<style type="text/css">
+body { font:300 1.5em/1.5em Arial, sans-serif;color:#3E3E3E; }
+.nav a { font:300 0.9em/1.4em Arial, sans-serif;color:#ffffff; }
+.page header h1 { font:bold 1.4em/1em Arial, sans-serif;color:#3E3E3E; }
+.post header h1, .post header h1 a:link, .post header h1 a:visited { font:bold 1.2em/1em Arial, sans-serif;color:#3E3E3E; }
+.post-meta { font:300 0.9em/1em Arial, sans-serif;color:#3E3E3E; }
+.entry, .entry p { font:300 1em/1.5em Arial, sans-serif;color:#3E3E3E; } h1, h2, h3, h4, h5, h6 { font-family: Arial, sans-serif, arial, sans-serif; }
+.widget h3 { font:bold 1.2em/1em Arial, sans-serif;color:#3E3E3E; }
+.widget h3 { font:bold 1.2em/1em Arial, sans-serif;color:#3E3E3E; }
+</style>
+
+<!-- Alt Stylesheet -->
+<link href="http://www.nosnorezone.com/wp-content/themes/mystile/styles/blue.css" rel="stylesheet" type="text/css" />
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.nosnorezone.com/wp-content/themes/mystile/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://www.nosnorezone.com/wp-content/themes/mystile/custom.css" rel="stylesheet" type="text/css" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-225984-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body class="single single-product postid-1261 woocommerce woocommerce-page ie7 ie alt-style-blue layout-right-content layout-full currency-usd">
+
+<div id="wrapper">
+
+
+
+	<div id="top">
+		<nav class="col-full" role="navigation">
+						<ul class="nav wc-nav">	<li class="cart">
+	<a href="http://www.nosnorezone.com/cart/" title="View your shopping cart" class="cart-parent">
+		<span>
+	<span class="amount">&#36;&nbsp;0.00</span><span class="contents">0 items</span>	</span>
+	</a>
+	</li>
+	<li class="checkout"><a href="https://www.nosnorezone.com/checkout/">Checkout</a></li><li class="search"><form role="search" method="get" id="searchform" action="http://www.nosnorezone.com/" >
+    <label class="screen-reader-text" for="s">Search Products:</label>
+    <input type="search" results=5 autosave="http://www.nosnorezone.com/" class="input-text" placeholder="Search Products" value="" name="s" id="s" />
+    <input type="submit" class="button" id="searchsubmit" value="Search" />
+    <input type="hidden" name="post_type" value="product" />
+    </form></li></ul>		</nav>
+	</div><!-- /#top -->
+
+
+
+    
+	<header id="header" class="col-full">
+
+
+
+	    <hgroup>
+
+	    	 						    <a id="logo" href="http://www.nosnorezone.com/" title="">
+			    	<img src="http://www.nosnorezone.com/wp-content/uploads/2012/12/nosnorezone_logo11.png" alt="No Snore Zone" />
+			    </a>
+               
+		    
+			<h1 class="site-title"><a href="http://www.nosnorezone.com/">No Snore Zone</a></h1>
+			<h2 class="site-description"></h2>
+			<h3 class="nav-toggle"><a href="#navigation">&#9776; <span>Navigation</span></a></h3>
+
+		</hgroup>
+ <div class="header-phone">
+Call toll free:
+<span>1-877-771-7794</span>
+</div>
+        
+		<nav id="navigation" class="col-full" role="navigation">
+
+			<ul id="main-nav" class="nav fr"><li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="http://www.nosnorezone.com/">Home</a></li>
+<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="http://www.nosnorezone.com/about-us/">About Us</a></li>
+<li id="menu-item-1321" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor current-menu-parent current-product-parent menu-item-has-children menu-item-1321"><a href="http://www.nosnorezone.com/product-category/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-1322" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor current-menu-parent current-product-parent menu-item-has-children menu-item-1322"><a href="http://www.nosnorezone.com/product-category/products/">Mandibular Advancement Devices</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="http://www.nosnorezone.com/sleeppro/">SleepPro</a></li>
+		<li id="menu-item-1856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1856"><a href="http://www.nosnorezone.com/noiselezz/">Noiselezz</a></li>
+	</ul>
+</li>
+	<li id="menu-item-2080" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2080"><a href="http://www.nosnorezone.com/shop-all-products/">Shop All Products</a></li>
+	<li id="menu-item-3567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3567"><a href="http://www.nosnorezone.com/combination-pricing/">Combination Pricing</a></li>
+	<li id="menu-item-1103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1103"><a href="http://www.nosnorezone.com/product-comparison/">Product Comparison Chart</a></li>
+</ul>
+</li>
+<li id="menu-item-2058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2058"><a href="http://www.nosnorezone.com/accessories/">Accessories</a>
+<ul class="sub-menu">
+	<li id="menu-item-3162" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3162"><a href="http://www.nosnorezone.com/chin-support-strap/">Chin Support Strap</a></li>
+	<li id="menu-item-3167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3167"><a href="http://www.nosnorezone.com/chin-up-strips/">Chin Up Strips</a></li>
+	<li id="menu-item-3108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3108"><a href="http://www.nosnorezone.com/nozovent/">NozoVent</a></li>
+	<li id="menu-item-3566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3566"><a href="http://www.nosnorezone.com/combination-pricing/">Combination Pricing</a></li>
+</ul>
+</li>
+<li id="menu-item-3568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3568"><a href="http://www.nosnorezone.com/combination-pricing/">Combination Pricing</a></li>
+<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1082"><a href="http://www.nosnorezone.com/customer-comments-and-testimonials/">Testimonials</a>
+<ul class="sub-menu">
+	<li id="menu-item-1119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1119"><a href="http://www.nosnorezone.com/customer-comments-and-testimonials/">View Testimonials</a></li>
+	<li id="menu-item-1104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1104"><a href="http://www.nosnorezone.com/customer-comments-and-testimonials/submit-your-testimonial/">Submit Your Testimonial</a></li>
+</ul>
+</li>
+<li id="menu-item-1083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1083"><a href="http://www.nosnorezone.com/faqs/">Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="http://www.nosnorezone.com/faqs/faq-snoring-and-sleep-apnea/">Snoring and Sleep Apnea</a></li>
+	<li id="menu-item-1085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="http://www.nosnorezone.com/faqs/faq-aleep-pro/">SleepPro</a></li>
+	<li id="menu-item-1086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="http://www.nosnorezone.com/faqs/faq-mandibular-advancement-questions/">Mandibular Advancement Questions</a></li>
+	<li id="menu-item-3764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3764"><a href="http://www.nosnorezone.com/m-a-d-s-what-you-should-know-before-you-choose/">What you should know before choosing a M.A.D.</a></li>
+	<li id="menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="http://www.nosnorezone.com/faqs/faq-other-product-questions/">Other Product Questions</a></li>
+	<li id="menu-item-1088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1088"><a href="http://www.nosnorezone.com/faqs/why-do-we-snore/">Why do we snore?</a></li>
+	<li id="menu-item-1089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1089"><a href="http://www.nosnorezone.com/faqs/is-snoring-dangerous/">Is snoring dangerous?</a></li>
+	<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="http://www.nosnorezone.com/faqs/symptoms-of-sleep-apnea/">Symptoms of Sleep Apnea</a></li>
+	<li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1091"><a href="http://www.nosnorezone.com/faqs/obstructive-sleep-apnea/">Obstructive Sleep Apnea</a></li>
+	<li id="menu-item-1092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092"><a href="http://www.nosnorezone.com/faqs/snoring-and-sleep-dictionary/">Snoring and Sleep Dictionary</a></li>
+	<li id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1093"><a href="http://www.nosnorezone.com/faqs/health-resources-information/">Health Resources</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1094"><a href="http://www.nosnorezone.com/faqs/health-resources-information/health-resources-a-e/">A-E</a></li>
+		<li id="menu-item-1095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1095"><a href="http://www.nosnorezone.com/faqs/health-resources-information/health-resources-f-j/">F-J</a></li>
+		<li id="menu-item-1096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href="http://www.nosnorezone.com/faqs/health-resources-information/health-resouces-k-o/">K-O</a></li>
+		<li id="menu-item-1097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1097"><a href="http://www.nosnorezone.com/faqs/health-resources-information/health-resources-p-t/">P-T</a></li>
+		<li id="menu-item-1098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="http://www.nosnorezone.com/faqs/health-resources-information/health-resources-u-z/">U-Z</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="http://www.nosnorezone.com/faqs/health-links/">Health Links</a></li>
+	<li id="menu-item-1114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1114"><a href="http://www.nosnorezone.com/faqs/watch-videos/">Watch Videos</a></li>
+	<li id="menu-item-1116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1116"><a href="http://www.nosnorezone.com/faqs/sleeppro-1-fitting-instructions/">Fitting Instructions</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118"><a href="http://www.nosnorezone.com/faqs/sleeppro-1-fitting-instructions/">SleepPro 1® Fitting Instructions</a></li>
+		<li id="menu-item-1117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1117"><a href="http://www.nosnorezone.com/faqs/sleeppro-2-custom-fitting-instructions/">SleepPro 2 Custom Fitting Instructions</a></li>
+		<li id="menu-item-1115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1115"><a href="http://www.nosnorezone.com/faqs/sleeppro-sfa-fitting-instructions/">SleepPro SFA® Fitting Instructions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1100"><a href="http://www.nosnorezone.com/ordering-shipping/">Ordering &#038; Shipping</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1113"><a href="http://www.nosnorezone.com/ordering-shipping/preferred-customer-program/">Repeat Customer Program</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1101"><a href="http://www.nosnorezone.com/faqs/faq-ordering-and-shipping-questions/">FAQs Ordering &#038; Shipping</a></li>
+	<li id="menu-item-1121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1121"><a href="http://www.nosnorezone.com/faqs/warranty-return-shipping/">Guarantee &#038; Return Shipping Information</a></li>
+</ul>
+</li>
+<li id="menu-item-1102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="http://www.nosnorezone.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-2027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2027"><a href="http://www.nosnorezone.com/news/">News</a></li>
+<li id="menu-item-3491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3491"><a href="http://www.nosnorezone.com/product-comparison/">Comparison Chart</a></li>
+<li id="menu-item-3582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3582"><a href="http://www.nosnorezone.com/m-a-d-studies/">M.A.D. Studies</a></li>
+</ul>
+		</nav><!-- /#navigation -->
+
+		
+	</header><!-- /#header -->
+
+				<!-- #content Starts -->
+			    <div id="content" class="col-full">
+
+	        <!-- #main Starts -->
+	        	        <div id="main" class="col-left">
+
+	      
+		
+			
+
+
+
+
+
+<div itemscope itemtype="http://schema.org/Product" id="product-1261" class="post-1261 product type-product status-publish has-post-thumbnail product_cat-products product_cat-shop-all-products product_cat-sleeppro product_shipping_class-standard-item taxable shipping-taxable purchasable product-type-simple product-cat-products product-cat-shop-all-products product-cat-sleeppro instock">
+
+
+
+	
+
+<div class="images">
+
+
+
+	<a href="http://www.nosnorezone.com/wp-content/uploads/2015/06/Easifit.png" itemprop="image" class="woocommerce-main-image zoom" title="" data-rel="prettyPhoto"><img width="200" height="200" src="http://www.nosnorezone.com/wp-content/uploads/2015/06/Easifit-200x200.png" class="attachment-shop_single wp-post-image" alt="Easifit" title="Easifit" /></a>
+
+
+	
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="summary entry-summary">
+
+
+
+
+Change Currency
+
+
+
+    
+
+
+
+
+    <form method="post" action="" class="woocommerce-currency-switcher-form woocs_show_flags">
+        <input type="hidden" name="woocommerce-currency-switcher" value="USD" />
+        <select name="woocommerce-currency-switcher" style="width: 220px;" data-width="220px" data-flag-position="right" class="woocommerce-currency-switcher" onchange="woocs_redirect(this.value);
+                void(0);">
+                    
+                
+                <option style="background: url('http://www.nosnorezone.com/wp-content/uploads/2015/11/flag-us.png') no-repeat 99% 0; background-size: 30px 20px;" value="USD"  selected='selected' data-imagesrc="http://www.nosnorezone.com/wp-content/uploads/2015/11/flag-us.png" data-icon="http://www.nosnorezone.com/wp-content/uploads/2015/11/flag-us.png" data-description="US Dollar">USD, &#36;</option>
+            
+                
+                <option style="background: url('http://www.nosnorezone.com/wp-content/uploads/2015/11/flag-canada1.png') no-repeat 99% 0; background-size: 30px 20px;" value="CAD"  data-imagesrc="http://www.nosnorezone.com/wp-content/uploads/2015/11/flag-canada1.png" data-icon="http://www.nosnorezone.com/wp-content/uploads/2015/11/flag-canada1.png" data-description="Canadian Dollar">CAD, &#36;</option>
+                    </select>
+        <div style="display: none;">WOOCS 2.1.4</div>
+    </form>
+    	
+
+
+
+
+
+
+
+		<h1 itemprop="name" class="product_title entry-title">SleepPro Easifit®</h1>
+<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+
+	<p class="price"><span class="amount">&#36;&nbsp;49.95</span></p>
+
+	<meta itemprop="price" content="49.95" />
+	<meta itemprop="priceCurrency" content="USD" />
+	<link itemprop="availability" href="http://schema.org/InStock" />
+
+</div>
+
+
+
+	
+	<form class="cart" method="post" enctype='multipart/form-data'>
+	 	
+	 	<!--<div class=quantity><input type="number" step="1" min="1"  name="quantity" value="1" title="Qty" class="input-text qty text" size="4" /></div>-->
+
+	 	<input type="hidden" name="add-to-cart" value="1261" />
+
+	 	<button type="submit" class="single_add_to_cart_button button alt">Add to cart</button>
+
+			</form>
+
+	
+<div class="product_meta">
+
+	
+	
+	<span class="posted_in">Categories: <a href="http://www.nosnorezone.com/product-category/products/" rel="tag">Products</a>, <a href="http://www.nosnorezone.com/product-category/shop-all-products/" rel="tag">Shop All Products</a>, <a href="http://www.nosnorezone.com/product-category/sleeppro/" rel="tag">SleepPro</a></span>
+	
+	
+</div>
+
+
+
+
+
+
+	</div><!-- .summary -->
+
+
+
+	
+	<div class="woocommerce-tabs wc-tabs-wrapper">
+		<ul class="tabs wc-tabs">
+							<li class="description_tab">
+					<a href="#tab-description">Description</a>
+				</li>
+					</ul>
+					<div class="panel entry-content wc-tab" id="tab-description">
+				
+  <h2>Product Description</h2>
+
+<h2><em style="font-size: 13px;"><strong>No Prescription Required!</strong></em></h2>
+<p>SleepPro Easifit is a Mandibular Advancement Device, one of only three methods which have been proven to be able to stop snoring, the others being CPAP and surgery. It is also the cheapest and most comfortable way to stop snoring, although you should seek a doctor&#8217;s advice if you have sleep apnea. It is very comfortable to wear.</p>
+<p>Mandibular Advancement Devices also known as M.A.D. are Dental appliances that hold the mandible (lower jaw) forward, thereby opening up the airway, keeping the tongue forward and firming up the soft pallet tissue, this reduces the snoring sound and the effects of Sleep Apnea.</p>
+<p><strong>Boxed Contents:</strong> 1 Device, 1 Insert, 1 Storage Container, 1 Set of Instructions.</p>
+<div class="su-tabs su-tabs-style-default" data-active="1"><div class="su-tabs-nav"><span class="" data-url="" data-target="blank">More Info</span><span class="" data-url="" data-target="blank">Watch Video</span><span class="" data-url="" data-target="blank">Fitting Instructions</span><span class="" data-url="" data-target="blank">How It Fits</span><span class="" data-url="" data-target="blank">Guarantee</span></div><div class="su-tabs-panes"><div class="su-tabs-pane su-clearfix">
+<h2>A cost-effective snoring treatment that actually works</h2>
+<ul>
+<li>A low cost solution (10-40 times cheaper than alternatives offered by dentists)</li>
+<li>Highly effective (please check our <a title="Testimonials" href="http://www.nosnorezone.com/customer-comments-and-testimonials/">testimonials</a> section)</li>
+<li>Easy to fit and adjustable</li>
+<li>Boil-and-bite technology</li>
+<li>The original stop snoring device &#8211; helping people to stop snoring since 1998</li>
+<li>Trusted worldwide and recommended by doctors and sleep disorder clinics</li>
+<li>Get the sleep you deserve &#8211; 45 day money back guarantee</li>
+</ul>
+<p><b>Stop Snoring in Three Easy Steps</b></p>
+<ol>
+<li>Unwrap your SleepPro Easifit Mandibular Advancement Device mouthpiece.</li>
+<li>Mould it to the shape of your jaw using the simple &#8216;boil and bite&#8217; technology</li>
+<li>Wear it just before going to bed, and get ready for a snore-free evening</li>
+</ol>
+<p><b>&#8220;Boil and bite&#8221; &#8211; How does it work?</b></p>
+<p>Boil and bite has helped us to produce a low cost, effective solution for snorers of all shapes and sizes. The technology lets you mould the mouthpiece to the shape of your jaw so it fits snugly throughout the night.</p>
+<p><b>Detailed and simple-to-follow instructions are included with your appliance.</b></p>
+<p>SleepPro Easifit is a Mandibular Advancement Device, one of only three methods which have been proven to be able to stop snoring, the others being CPAP and surgery. It is also the cheapest and most comfortable way to stop snoring, although you should seek a doctor&#8217;s advice if you have sleep apnea. It is very comfortable to wear.</p>
+<p>Remember, if you aren&#8217;t happy, simply send it back to us within 45 days for a 100% refund (less shipping).<br />
+</div>
+<div class="su-tabs-pane su-clearfix">
+<iframe src="http://www.youtube.com/embed/TT0QbjhjGCY?rel=0" width="450" height="253" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
+</div>
+<div class="su-tabs-pane su-clearfix">
+It is extremely important that you familiarize yourself with the instructions. Please do not attempt to fit the mouthpiece until you understand the instructions and please follow them as precisely as possible. Ensure the white insert for the breathing holes is in place. Make sure it goes all the way through. It would point away from your face when the device is in your mouth. The SleepPro has a top and a bottom. The top has a notch.</p>
+<p>Practice the molding procedure a couple of times until you are comfortable with it. Push your jaw forward so that your lower front teeth are slightly in front of your upper front teeth. For most people, this is going to be the position where you want the device to hold your jaw. However, you may need to try a few different positions before you find one that is right for you (your comfort level). The idea is to push your jaw far enough forward to open your airway, but not so far forward that it causes discomfort and stops your sleeping. Don&#8217;t worry if you don&#8217;t get it right on the first attempt. Just take a relaxed attitude and repeat the molding process until you feel you have it right. It is normal for people to repeat the fitting process several times.</p>
+<p><strong>What you will need before you start:</strong></p>
+<ul>
+<ul>
+<li>at least a cup of water</li>
+<li>a kettle or pot (do not use a microwave)</li>
+<li>a mug to put just boiled water into</li>
+<li>cold water from a tap, in a bowl or cup (a second cup)</li>
+<li>a spoon or fork to scoop the impression tray out of hot water (so you don&#8217;t scald your fingers)</li>
+<li>a watch or timer</li>
+<li>a mirror to help you see what you are doing</li>
+</ul>
+</ul>
+<p>If possible, get someone else to read the instructions to you as you fit the mouthpiece.</p>
+<p><strong>Your 10 steps to peaceful sleep</strong><br />
+Boil some water and pour it into a mug &#8211; let it cool for one (1) minute (if the water is too hot, the mouthpiece will become rough and may be unwearable. Do not use a microwave to boil the water).</p>
+<p>Ensure the insert/handle is firmly in place. This keeps the breathing channels open and acts as a handle during the molding process. Completely immerse the SleepPro for two (2) minutes in the hot water. It should be soft enough to take an impression of your teeth and change shape as you move your jaw forward.</p>
+<p>Remove and shake off excess water &#8211; check it is not too hot.</p>
+<p>Push any folded over material back into place using your thumb on the insides of the horseshoe &#8211; top and bottom. You will not break the mouthpiece, so push them back as hard as you need to. This is important as, if the sides fold down, they will catch on your teeth when you bite into the mouthpiece.</p>
+<p>Check it is the right way up with the notch at the top.</p>
+<p>Put it on your lower teeth first then gently close your mouth. Use a mirror to see what you are doing.</p>
+<p>Bite hard and move your lower jaw forward &#8211; to begin with, try with your lower front teeth slightly in front of your upper front teeth. Bite hard for ten (10) seconds and then bite firmly for another twenty (20) seconds while continuing with the steps below. Note: if you bite through the mouthpiece, this is generally not a problem. However, if your upper and lower teeth are touching, then you should not use the mouthpiece.</p>
+<p><strong>Drawbridge effect:</strong><br />
+Look for the drawbridge effect, where when you push your lower jaw forward, you see the insert for the breathing holes rise up like a drawbridge. It should start at the horizontal and rise up more and more as you push your jaw further forward. Most people will need to see at least some rise in the drawbridge for the mouthpiece to have any effect. How much? It varies from person to person, but you will soon find what is comfortable for you.</p>
+<p><strong>Suck in:</strong><br />
+To help keep the white plastic insert in place as well as to remove excess saliva and help get a good fit.</p>
+<p><strong>Mold the mouthpiece against your teeth</strong><br />
+Use your Index Finger like a Toothbrush. Robustly rub the outer section of the mouthpiece against your teeth &#8211; as if you are brushing your teeth with your index finger. This will help it take the shape of your teeth.</p>
+<p><strong>Tongue:</strong><br />
+Push hard with your tongue against the mouthpiece, particularly against the back of your lower front teeth. Blow out through your mouth if it is too hot.<br />
+Remove after 30 seconds and put in cold water, until it has cooled. Try the mouthpiece in your mouth.</p>
+<p>Repeat the process if you need to &#8211; If you are not happy with your fitting, then repeat the above process. You will probably get a better fit if you repeat the fitting process at least once. You can make further adjustments after the first night if you feel it is necessary. Remember to remove the white plastic insert from the breathing hole before wearing your SleepPro, but don&#8217;t throw it away as you will need it in the future if you decide to remold it.</p>
+<p>Remember, if you aren&#8217;t happy, simply send it back to us within 45 days for a 100% refund (less shipping).<br />
+</div>
+<div class="su-tabs-pane su-clearfix">
+Mandibular advancement devices work by (i) pushing the jaw forward to create more space to breathe through in the upper airway and (ii) gently stretching the soft palate. This can be a very effective way of stopping snoring and making it easier to breathe while asleep.</p>
+<p>Most people can fit a SleepPro Easifit themselves with no complications. However, some people benefit from having their dentist assess their teeth prior to fitting. If you think that this may be the case for you, then please make a dental appointment before fitting the device. We want you to overcome your snoring or sleep problem, but we don&#8217;t want you to come to any harm. In the unlikely event that your dentist advises that a mandibular advancement device is unsuitable for your teeth, then please contact us.</p>
+<p>Please take your SleepPro Easifit with you every time you go for a routine dental check-up. Tell your dentist that you are using a mandibular advancement device and ask him or her to check for signs that it may be affecting your teeth or gums.</p>
+<p><strong>Helpful Hints</strong><br />
+Please follow the fitting instructions very carefully and please note SleepPros may be unsuitable for people with bridgework. If your SleepPro Easifit does not work right away on the first night, then it needs to be remolded. Do not persevere in the hope it will get better. It will not. It needs to be remolded.</p>
+<p><strong>For example&#8230;</strong></p>
+<ul>
+<ul>
+<ul>
+<li>If you are still snoring, then you may need to remold the SleepPro Easifit with your jaw further forward.</li>
+<li>If your jaw muscles hurt, then you may need to remold it with your jaw less far forward.</li>
+<li>If it stops your snoring, but then your jaw drops out and you start snoring again, then you need to remold it taking extra care to push the mouthpiece against your teeth with your fingers and tongue during the molding process, or upgrade to a SleepPro 2 Custom. You may also like to try our Chin Support Strap which is designed to keep your mouth from falling open while asleep.</li>
+</ul>
+</ul>
+</ul>
+<p>Should you have any problems fitting your SleepPro Easifit, please read our Frequently Asked Questions and Answers document. It has lots of information about what to do if your SleepPro 1 does not work.</p>
+<p>The white plastic insert that comes with the SleepPro is very important. It is only used during the fitting process and is designed to keep the breathing holes open during the fitting process. It has another useful function and that is a way of seeing whether you have pushed your jaw forward, as it will rise like a drawbridge when your jaw goes forward. Once you have completed the fitting, you should remove it, but keep it somewhere safe in case you decide to redo the fitting at a later date.</p>
+<p><strong>What to expect in the first weeks:</strong><br />
+Your partner will know whether the device works for you on the first night. However, it can take anything from a few days to couple of weeks to get used to wearing a SleepPro Easifit. As soon as you know that pushing your jaw forward stops your snoring, even if only for a short while, you can then consider upgrading to our SleepPro 2 Custom, in the confidence that it will also work and that it will be easier to wear through the night. Or, like many of our customers, you may choose to keep using a SleepPro Easifit.</p>
+<p>Some people tell us that for the first few nights they have difficulty keeping the mouthpiece in their mouth for the whole night, or it may fall out while asleep. This is normal and improves with time. Some people wear the mouthpiece for short periods during the day while they get used to it. Note: you are less likely to have these problems with a custom-made device, like our SleepPro 2 Custom.</p>
+<p>The device will feel more comfortable with time. Many people experience discomfort in the front teeth during the settling in period. This is normal and usually disappears shortly after removing the mouthpiece. However, if the discomfort is excessive, or you feel that damage is being done to your teeth or gums, then stop using the device immediately and contact us. Once again, a custom made mandibular advancement device, like a SleepPro 2 Custom is likely to alleviate these problems.</p>
+<p><b>Snoring and Sleep Apnea</b><br />
+Most people with Obstructive Sleep Apnea (OSA) snore, but only a small percentage of snorers have OSA. If your partner has noticed pauses in your breathing while you sleep, or if you have significant daytime tiredness, then you should mention this to your doctor and ask about a sleep study.<br />
+</div>
+<div class="su-tabs-pane su-clearfix">
+<strong>100% Maximum Risk Guarantee</strong><br />
+Effective September 24, 2012, we are happy to refund per the following within 45 days, less our original shipping cost, subject to the following limitations:</p>
+<p>&nbsp;</p>
+<ul>
+<ul>
+<ul>
+<li>The above 100% guarantee applies to the SleepPro Easifit and Noiselezz and NOISELEZZ® II (SnoreEraser) product only.</li>
+<li>The SleepPro SFA product carries a 50% &#8211; 45 day warranty</li>
+<li>The SleepPro 2 Custom is a custom-manufactured (for you only) appliance, purchased after due thought and testing. No warranty is stated or implied for the SleepPro 2 Custom appliance.</li>
+<li>Combination discount will be deducted from refund where applicable.</li>
+<li>Whether you actually use the appliance or not, once it has left our hands, it is considered &#8220;used&#8221;. We cannot, under any circumstances, resell any returned appliances. They are examined, documented and then immediately destroyed.</li>
+<li>The appliance must be shipped according to our instructions (below).</li>
+<li>Resale accounts are not eligible for this risk warranty or the repeat order discount.</li>
+</ul>
+</ul>
+</ul>
+<p><strong>RETURN SHIPPING INSTRUCTIONS</strong><br />
+Please read and follow exactly. Please contact us first, permission is not required to return however our experienced staff may be able to assist you. Please ship via post, and only post (Standard surface or air mail, in an envelope is the most economical).</p>
+<ul>
+<ul>
+<ul>
+<li>Mark the package &#8220;Canadian Goods Returning&#8221;, and &#8220;No Commercial Value.&#8221;</li>
+<li>Your return address must be the same as the original &#8220;ship to&#8221; address, clearly marked on the outside of your return package. No protective, special packaging required.</li>
+<li>Include a note of explanation and your name and address in full.</li>
+<li>Please include an invoice number, there is no reason for special packaging, the contents being returned truly have no value and require no protection. No value on any customs form required please.</li>
+<li>As well as the above comments, shipping by any other method (other than regular postage) will automatically be returned to the sender, at the sender&#8217;s cost.</li>
+<li>Shipping Address:<br />
+Therapy Control Products Inc.<br />
+PO Box 70058,<br />
+Creekside RPO<br />
+Airdrie, AB<br />
+Canada T4B 0V9</li>
+</ul>
+</ul>
+</ul>
+</div></div></div>
+			</div>
+			</div>
+
+
+	<div class="related products">
+
+		<h2>Related Products</h2>
+
+		<ul class="products">
+			
+				<li class="first post-1265 product type-product status-publish has-post-thumbnail product_cat-products product_cat-shop-all-products product_cat-sleeppro product_shipping_class-standard-item taxable shipping-taxable purchasable product-type-simple product-cat-products product-cat-shop-all-products product-cat-sleeppro instock">
+
+	
+	<a href="http://www.nosnorezone.com/product/sleep-pro-2-custom/">
+
+		<img width="150" height="150" src="http://www.nosnorezone.com/wp-content/uploads/2015/06/Custom-150x150.png" class="attachment-shop_catalog wp-post-image" alt="Custom" /><h3>Sleep Pro Custom ®</h3>
+
+
+	<span class="price"><span class="amount">&#36;&nbsp;199.99</span></span>
+
+	</a>
+	<a href="/product/sleeppro-1/?add-to-cart=1265" rel="nofollow" data-product_id="1265" data-product_sku="" data-quantity="1" class="button add_to_cart_button product_type_simple">Add to cart</a>
+</li>
+
+			
+				<li class="post-1267 product type-product status-publish has-post-thumbnail product_cat-offer product_cat-products product_cat-shop-all-products product_cat-sleeppro product_shipping_class-standard-item taxable shipping-taxable purchasable product-type-simple product-cat-offer product-cat-products product-cat-shop-all-products product-cat-sleeppro instock">
+
+	
+	<a href="http://www.nosnorezone.com/product/sleeppro-sfa/">
+
+		<img width="150" height="150" src="http://www.nosnorezone.com/wp-content/uploads/2015/06/contour-150x150.png" class="attachment-shop_catalog wp-post-image" alt="contour" /><h3>SleepPro Contour ®</h3>
+
+
+	<span class="price"><span class="amount">&#36;&nbsp;112.95</span></span>
+
+	</a>
+	<a href="/product/sleeppro-1/?add-to-cart=1267" rel="nofollow" data-product_id="1267" data-product_sku="" data-quantity="1" class="button add_to_cart_button product_type_simple">Add to cart</a>
+</li>
+
+			
+				<li class="post-1270 product type-product status-publish has-post-thumbnail product_cat-noiselezz product_cat-products product_cat-shop-all-products product_shipping_class-standard-item taxable shipping-taxable purchasable product-type-variable product-cat-noiselezz product-cat-products product-cat-shop-all-products instock">
+
+	
+	<a href="http://www.nosnorezone.com/product/noiselezz/">
+
+		<img width="150" height="150" src="http://www.nosnorezone.com/wp-content/uploads/2013/07/noiselezz11-150x150.jpg" class="attachment-shop_catalog wp-post-image" alt="noiselezz11" /><h3>Noiselezz®</h3>
+
+
+	<span class="price"><span class="amount">&#36;&nbsp;49.95</span></span>
+
+	</a>
+	<a href="http://www.nosnorezone.com/product/noiselezz/" rel="nofollow" data-product_id="1270" data-product_sku="" data-quantity="1" class="button add_to_cart_button product_type_variable">Select options</a>
+</li>
+
+			
+				<li class="last post-1272 product type-product status-publish has-post-thumbnail product_cat-noiselezz product_cat-products product_cat-shop-all-products product_shipping_class-standard-item taxable shipping-taxable purchasable product-type-variable product-cat-noiselezz product-cat-products product-cat-shop-all-products instock">
+
+	
+	<a href="http://www.nosnorezone.com/product/noiselezz-ii/">
+
+		<img width="150" height="150" src="http://www.nosnorezone.com/wp-content/uploads/2013/07/noiselezz21-150x150.jpg" class="attachment-shop_catalog wp-post-image" alt="noiselezz21" /><h3>Noiselezz® II</h3>
+
+
+	<span class="price"><span class="amount">&#36;&nbsp;54.95</span></span>
+
+	</a>
+	<a href="http://www.nosnorezone.com/product/noiselezz-ii/" rel="nofollow" data-product_id="1272" data-product_sku="" data-quantity="1" class="button add_to_cart_button product_type_variable">Select options</a>
+</li>
+
+			
+		</ul>
+	</div>
+
+
+
+
+	<meta itemprop="url" content="http://www.nosnorezone.com/product/sleeppro-1/" />
+
+
+
+</div><!-- #product-1261 -->
+
+
+
+
+
+
+
+
+
+		
+	
+			</div><!-- /#main -->
+	        
+	    </div><!-- /#content -->
+			    
+	
+<div class="footer-wrap">		
+		<section id="footer-widgets" class="col-full col-4 fix">
+	
+								
+			<div class="block footer-widget-1">
+	        	<div id="text-10" class="widget widget_text"><h3>ABOUT US</h3>			<div class="textwidget">We have been in the snoring therapy business for many years. We represent what we believe are the finest products available to treat snoring.</div>
+		</div>			</div>
+	
+		        								
+			<div class="block footer-widget-2">
+	        	<div id="text-11" class="widget widget_text"><h3>BUSINESS HOURS</h3>			<div class="textwidget">M-F: 8am to 5pm
+
+Mountain Standard Time
+Closed on all Statutory Holidays</div>
+		</div><div id="text-12" class="widget widget_text"><h3>SALES &#038; INQUIRIES</h3>			<div class="textwidget">TF:1-877-771-7794<br />
+O: 403-404-9624<br />
+</div>
+		</div>			</div>
+	
+		        								
+			<div class="block footer-widget-3">
+	        	<div id="text-13" class="widget widget_text"><h3>CONTACT INFO</h3>			<div class="textwidget"><p>
+Box 70058, Creekside RPO
+<br>
+Airdrie, AB,
+<br>
+Canada T4B 0V9<br />
+E: <a href="mailto:admin@nosnorezone.com">admin@nosnorezone.com</a>
+</p>
+<h5>Follow Us</h5>
+<p>
+<a target="_blank" href="https://www.facebook.com/NoSnoreZone?fref=ts">
+<img border="0" alt="Facebook" src="http://www.nosnorezone.ca/wp-content/facebook.png">
+</a>
+
+<a target="_blank" href="https://twitter.com/nosnorezone">
+<img border="0" alt="Twitter" src="http://www.nosnorezone.ca/wp-content/Twitter-25x25.png">
+</a>
+<a target="_blank" href="https://plus.google.com/u/0/105582025936118597109/posts">
+<img border="0" alt="GooglePlus" src="http://www.nosnorezone.ca/wp-content/Google-plus-25x25.png">
+</a>
+<a target="_blank" href="#">
+<img border="0" alt="LinkedIn" src="http://www.nosnorezone.ca/wp-content/LinkedIn-25x25.png">
+</a>
+</p></div>
+		</div>			</div>
+	
+		        								
+			<div class="block footer-widget-4">
+	        	<div id="text-8" class="widget widget_text"><h3>FAQS</h3>			<div class="textwidget"><ul>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/faq-snoring-and-sleep-apnea/">Snoring and Sleep Apnea</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/faq-aleep-pro/">SleepPro</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/faq-mandibular-advancement-questions/">Mandibular Advancement Questions</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/faq-other-product-questions/">Other Product Questions</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/why-do-we-snore/">Why do we snore?</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/is-snoring-dangerous/">Is snoring dangerous?</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/symptoms-of-sleep-apnea/">Symptoms of Sleep Apnea</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/obstructive-sleep-apnea/">Obstructive Sleep Apnea</a>
+</li>
+<li>
+<a href="http://www.nosnorezone.ca/faqs/snoring-and-sleep-dictionary/">Snoring and Sleep Dictionary</a>
+</li>
+</ul></div>
+		</div>			</div>
+	
+		        				
+		</section><!-- /#footer-widgets  -->
+			<footer id="footer" class="col-full">
+	
+			<div id="copyright" class="col-left">
+							<p>No Snore Zone &copy; 2017. All Rights Reserved.</p>
+						</div>
+	
+			<div id="credit" class="col-right">
+	        		
+			</div>
+	
+		</footer><!-- /#footer  -->
+	
+	</div><!-- / footer-wrap -->
+
+</div><!-- /#wrapper -->
+<!--Embed from Zopim Live Chat Wordpress Plugin v1.3.9-->
+  <!--Start of Zopim Live Chat Script-->
+  <script type="text/javascript">
+  window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+  d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+  _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+  $.src='//v2.zopim.com/?JNIyNNRLFbQjPj1YJPpWtc7HSPq9XAlU';z.t=+new Date;$.
+  type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+  </script><script>$zopim( function() {
+})</script><!--End of Zopim Live Chat Script--><link rel='stylesheet' id='su-box-shortcodes-css'  href='http://www.nosnorezone.com/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/ppm-accordion-master/js/ppm-accordion-active.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-includes/js/comment-reply.min.js?ver=4.3.10'></script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.nosnorezone.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.2'></script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6'></script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min.js?ver=2.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=2.4.4'></script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product\/sleeppro-1\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.4'></script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product\/sleeppro-1\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.nosnorezone.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.nosnorezone.com/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=4.9.8'></script>
+        <script type="text/javascript">
+            try {
+                jQuery(function () {
+                    jQuery.cookie('woocommerce_cart_hash', null, {path: '/'});
+                });
+            } catch (e) {
+
+            }
+        </script>
+        <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072219699;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072219699/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+</body>
+</html>
